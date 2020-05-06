@@ -1,17 +1,19 @@
 # handpong
 
 (foto)
+(guia de instalacion?)
 
-## ¿Qué es HandPong?
+### ¿Qué es HandPong?
 
 Es nuestra visión moderna del reconocido juego "pong". No hacen falta mandos para jugar, solo basta con mover las manos!
 
-## Tecnologías utilizadas
+### Tecnologías utilizadas
 
 Unity: es el motor de la interfaz gráfica del juego.
+
 Matlab: es la herramienta con la cual se desarrolló la interfaz de control a través de técnicas de IA.
 
-## ¿Cómo funciona?
+### ¿Cómo funciona?
 
 Implementamos una red neuronal YOLOv2 que usa las características extraídas por una MobileNetv2 pre-entrenada en el dataset ImageNet. Esta red MobilenetV2+YOLOv2 es lo que proporciona la capacidad de detectar manos en tiempo real!
 
@@ -22,16 +24,16 @@ Creamos en Unity una interfaz basada en el antiguo Pong, y le dimos nuestro prop
 
 Conectamos el videojuego de Unity con Matlab a traves de comunicación TCP. Matlab detecta continuamente las imagenes captadas por la webcam y a través de un puerto pasa la información al motor Unity para que mueva las palas.
 
-# HandPong realizado por
+## HandPong realizado por
 
 JORGE CRISTÓBAL ASCASO, 
 MAXIMILIANO NICOLÁS PALAY SILVA, 
 FELIPE ANGEL PASCUAL TORTOLA, 
 PAULA TOMÁS COLLADO 
-
 en el marco de la asignatura Sistemas Complejos Bioinspirados de la Univesidad Politecnica de Valencia, dictada por Andreu M. Climent, PhD.
 
-# Referencias/Créditos
+2020
+## Referencias/Créditos
 
 Este proyecto fue hecho en el marco de la asignatura Sistemas Complejos Bioinspirados en la Universidad Politécnica de Valencia, dictada por Andreu M. Climent, PhD.
 
