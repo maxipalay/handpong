@@ -7,6 +7,10 @@
 
 Es nuestra visión moderna del reconocido juego "pong". No hacen falta mandos para jugar, solo basta con mover las manos!
 
+Dos modos de juego: 
+  - un jugador, estilo frontón
+  - dos jugadores, uno contra uno
+
 ### Tecnologías utilizadas
 
 Unity: es el motor de la interfaz gráfica del juego.
