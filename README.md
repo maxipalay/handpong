@@ -56,6 +56,6 @@ December 2015 </br>
 Disponible en http://vision.soic.indiana.edu/projects/egohands/
 
 #### Dataset de elaboración propia
-Disponible en shorturl.at/ikoKQ
+Disponible en http://www.shorturl.at/ikoKQ
 
 Otras referencias, como documentación de Matlab utilizada pueden encontrarse en los archivos de código como comentarios.
