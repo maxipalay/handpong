@@ -43,20 +43,20 @@ en el marco de la asignatura Sistemas Complejos Bioinspirados de la Univesidad P
 
 Este proyecto fue hecho en el marco de la asignatura Sistemas Complejos Bioinspirados en la Universidad Politécnica de Valencia, dictada por Andreu M. Climent, PhD.
 
-####Hand Dataset
+#### Hand Dataset
 A. Mittal, A. Zisserman, P. H. S. Torr
 Hand detection using multiple proposals  
 British Machine Vision Conference, 2011
 Disponible en http://www.robots.ox.ac.uk/~vgg/data/hands/
 
-####EgoHands Dataset
+#### EgoHands Dataset
 Bambach, Sven and Lee, Stefan and Crandall, David J. and Yu, Chen
 Lending A Hand: Detecting Hands and Recognizing Activities in Complex Egocentric Interactions
 The IEEE International Conference on Computer Vision (ICCV)
 December 2015
 Disponible en http://vision.soic.indiana.edu/projects/egohands/
 
-####Dataset de elaboración propia
+#### Dataset de elaboración propia
 Disponible en 
 
 Otras referencias, como documentación de Matlab utilizada pueden encontrarse en los archivos de código como comentarios.
