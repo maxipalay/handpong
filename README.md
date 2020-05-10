@@ -1,6 +1,6 @@
 # handpong
 
-<img src="handpong-logo.jpeg" width="50">
+<img src="handpong-logo.jpeg" width="500">
 
 ### ¿Qué es HandPong?
 
