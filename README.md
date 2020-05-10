@@ -35,14 +35,12 @@ JORGE CRISTÓBAL ASCASO,
 MAXIMILIANO NICOLÁS PALAY SILVA, 
 FELIPE ANGEL PASCUAL TORTOLA, 
 PAULA TOMÁS COLLADO 
-en el marco de la asignatura Sistemas Complejos Bioinspirados de la Univesidad Politecnica de Valencia, </br>
-dictada por Andreu M. Climent, PhD.
+
+Este proyecto fue hecho en el marco de la asignatura Sistemas Complejos Bioinspirados en la Universidad Politécnica de Valencia, dictada por Andreu M. Climent, PhD.
 
 2020
 </br>
 ## Referencias/Créditos
-
-Este proyecto fue hecho en el marco de la asignatura Sistemas Complejos Bioinspirados en la Universidad Politécnica de Valencia, dictada por Andreu M. Climent, PhD.
 
 #### Hand Dataset
 A. Mittal, A. Zisserman, P. H. S. Torr </br>
