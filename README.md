@@ -4,7 +4,7 @@
 <img src="handpong-logo.jpeg" width="250">
 </p>
 
-### ¿Qué es HandPong?
+### ¿Qué es handpong?
 
 Es nuestra visión moderna del reconocido juego "pong". No hacen falta mandos para jugar, solo basta con mover las manos!
 
@@ -29,7 +29,7 @@ Creamos en Unity una interfaz basada en el antiguo Pong, y le dimos nuestro prop
 
 Conectamos el videojuego de Unity con Matlab a traves de comunicación TCP. Matlab detecta continuamente las imagenes captadas por la webcam y a través de un puerto pasa la información al motor Unity para que mueva las palas.
 
-## HandPong realizado por
+## handpong realizado por
 
 JORGE CRISTÓBAL ASCASO, 
 MAXIMILIANO NICOLÁS PALAY SILVA, 
