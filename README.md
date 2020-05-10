@@ -1,7 +1,6 @@
 # handpong
 
-![HandPong Logo](hangpong-logo.jpg)
-Format: ![Alt Text]
+![HandPong Logo](hangpong-logo.jpeg)
 
 ### ¿Qué es HandPong?
 
