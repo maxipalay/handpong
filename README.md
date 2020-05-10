@@ -1,6 +1,6 @@
 # handpong
 
-![HandPong Logo](hangpong-logo.jpeg)
+!HandPong Logo (hangpong-logo.jpeg)
 
 ### ¿Qué es HandPong?
 
