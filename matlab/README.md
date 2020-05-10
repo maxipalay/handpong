@@ -1,5 +1,6 @@
-Descripción de los archivos con los fuentes de Matlab
+# Descripción de los archivos con los fuentes de Matlab
 
+## codigo fuente
 data_processing_hands.m - Procesa las imagenes y etiquetas del dataset Hands para que sea mas sencillo trabajar con los datos, genera el archivo data_hands.mat
 data_processing_egohands.m - Procesa las imagenes y etiquetas del dataset Egohands para que sea mas sencillo trabajar con los datos, genera el archivo data_egohands.mat
 data_processing_merge.m - Abre los archivos data_*.mat, los fusiona, mezcla el orden de los datos de forma aleatoria, separa los datos en tres sets (entrenamiento, validacion y evaluacion) y genera los archivos full_dataset_*.mat
@@ -11,6 +12,7 @@ YOLOv2_network_inference_optimized.m - A traves de la webcam permite visualizar 
 
 handpong.m - Es básicamente YOLOv2_network_inference_optimized, pero con comunicación TCP agregada. Es este archivo el que ejecutamos en Matlab al ejecutar el videojuego.
 
+## archivos
 data_maxihands.mat - contiene las referencias a las imágenes etiquetadas del set de elaboracion propia.
 data_hands.mat - contiene las referencias a las imágenes etiquetadas del set Hands.
 data_egohands.mat - contiene las referencias a las imágenes etiquetadas del set Egohands.
