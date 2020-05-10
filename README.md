@@ -1,6 +1,6 @@
 # handpong
 
-![HandPong Logo](handpong-logo.jpeg =250x250)
+<img src="handpong-logo.jpeg" width="50">
 
 ### ¿Qué es HandPong?
 
