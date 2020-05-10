@@ -1,7 +1,7 @@
 # handpong
 
-(foto)
-(guia de instalacion?)
+![HandPong Logo](hangpong-logo.jpg)
+Format: ![Alt Text]
 
 ### ¿Qué es HandPong?
 
