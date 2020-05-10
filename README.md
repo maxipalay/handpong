@@ -35,25 +35,26 @@ JORGE CRISTÓBAL ASCASO,
 MAXIMILIANO NICOLÁS PALAY SILVA, 
 FELIPE ANGEL PASCUAL TORTOLA, 
 PAULA TOMÁS COLLADO 
-en el marco de la asignatura Sistemas Complejos Bioinspirados de la Univesidad Politecnica de Valencia, dictada por Andreu M. Climent, PhD.
+en el marco de la asignatura Sistemas Complejos Bioinspirados de la Univesidad Politecnica de Valencia, </br>
+dictada por Andreu M. Climent, PhD.
 
 2020
-
+</br>
 ## Referencias/Créditos
 
 Este proyecto fue hecho en el marco de la asignatura Sistemas Complejos Bioinspirados en la Universidad Politécnica de Valencia, dictada por Andreu M. Climent, PhD.
 
 #### Hand Dataset
-A. Mittal, A. Zisserman, P. H. S. Torr
-Hand detection using multiple proposals  
-British Machine Vision Conference, 2011
+A. Mittal, A. Zisserman, P. H. S. Torr </br>
+Hand detection using multiple proposals </br> 
+British Machine Vision Conference, 2011 </br>
 Disponible en http://www.robots.ox.ac.uk/~vgg/data/hands/
 
 #### EgoHands Dataset
-Bambach, Sven and Lee, Stefan and Crandall, David J. and Yu, Chen
-Lending A Hand: Detecting Hands and Recognizing Activities in Complex Egocentric Interactions
-The IEEE International Conference on Computer Vision (ICCV)
-December 2015
+Bambach, Sven and Lee, Stefan and Crandall, David J. and Yu, Chen </br>
+Lending A Hand: Detecting Hands and Recognizing Activities in Complex Egocentric Interactions </br>
+The IEEE International Conference on Computer Vision (ICCV) </br>
+December 2015 </br>
 Disponible en http://vision.soic.indiana.edu/projects/egohands/
 
 #### Dataset de elaboración propia
