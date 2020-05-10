@@ -1,5 +1,29 @@
 # Descripción de los archivos con los fuentes de Matlab
 
+### Nota
+Para poder usar este codigo con los datasets, debe descargarlos y colocarlos de la siguiente manera. No se exponen los datos en este repositorio, solo las referencias.
+
+1) Descargar los datos de las tres referencias.
+2) Crear tres directorios dentro del directorio "matlab": "dataset_hands", "dataset_egohands", "dataset_max"
+
+En el directorio "dataset_hands" debe copiar el contenido de la descarga del Dataset Hands, debe colocar el contenido de tal manera que el directorio quede con la siguiente estructura:
+- dataset_hands/README.txt
+- dataset_hands/validation_dataset
+- dataset_hands/training_dataset
+- ...
+
+En el directorio "dataset_egohands" debe copiar el contenido de la descarga del dataset Egoands, debe colocar el contenido de tal manera que el directorio quede con la siguiente estructura:
+- dataset_egohands/README.txt
+- dataset_egohands/metadata.mat
+- dataset_egohands/DEMO_1.m
+- ...
+
+En el directorio dataset_max debe copiar el contenido de la descarga del dataset elaborado por nosotros, debe colocar el contenido de tal manera que el directorio quede con la siguiente estructura:
+- dataset_max/data_maxihands.mat
+- dataset_max/getframesandboxes.m
+- dataset_max/pictures
+- ...
+
 ## codigo fuente
 - data_processing_hands.m - Procesa las imagenes y etiquetas del dataset Hands para que sea mas sencillo trabajar con los datos, genera el archivo data_hands.mat
 - data_processing_egohands.m - Procesa las imagenes y etiquetas del dataset Egohands para que sea mas sencillo trabajar con los datos, genera el archivo data_egohands.mat
