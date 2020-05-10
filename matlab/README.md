@@ -18,7 +18,7 @@ En el directorio "dataset_egohands" debe copiar el contenido de la descarga del 
 - dataset_egohands/DEMO_1.m
 - ...
 
-En el directorio dataset_max debe copiar el contenido de la descarga del dataset elaborado por nosotros, debe colocar el contenido de tal manera que el directorio quede con la siguiente estructura:
+En el directorio "dataset_max" debe copiar el contenido de la descarga del dataset elaborado por nosotros, debe colocar el contenido de tal manera que el directorio quede con la siguiente estructura:
 - dataset_max/data_maxihands.mat
 - dataset_max/getframesandboxes.m
 - dataset_max/pictures
